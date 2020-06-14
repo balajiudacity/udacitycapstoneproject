@@ -13,7 +13,7 @@ In this project, I applied my skills and knowledge which was developed throughou
 
 > I created a CI/CD pipeline for a basic website that deploys to a cluster in AWS EKS which is Blue/Green Deployment.
 
-![img-1](screenshots/Pipeline_implementation_scope_Diagram.png)
+(screenshots/Pipeline_implementation_scope_Diagram.png)
 
 ## Project Requirement:
 
